@@ -1,1 +1,2 @@
-
+- [dataset](https://www.kaggle.com/code/shawon10/ck-facial-expression-detection/input)
+- [dataset2](https://www.kaggle.com/code/arkhanzada/facial-emotions-classification-affectnet-dataset/input)
